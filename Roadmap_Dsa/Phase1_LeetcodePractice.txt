@@ -1,0 +1,98 @@
+✅ PHASE 1 FINAL CHECKLIST
+🟦 Arrays
+✅ Basic Operations (Access, Insert, Delete)
+🔗 Remove Element
+🔗 Insert Interval
+
+✅ Multi-dimensional Arrays
+🔗 Spiral Matrix
+🔗 Set Matrix Zeroes
+
+✅ Merge Arrays
+🔗 Merge Sorted Array
+
+✅ Rotate Array
+🔗 Rotate Array
+
+✅ Kadane’s Algorithm (Max Subarray Sum)
+🔗 Maximum Subarray
+
+✅ Prefix Sum
+🔗 Range Sum Query - Immutable
+🔗 Subarray Sum Equals K
+
+✅ Two Pointers
+🔗 Two Sum II
+🔗 Move Zeroes
+
+✅ Sliding Window
+🔗 Minimum Size Subarray Sum
+🔗 Sliding Window Maximum
+
+🟪 Strings
+✅ Basic String Manipulation
+🔗 Reverse String
+🔗 Implement strStr()
+
+✅ Substring Handling
+🔗 Longest Substring Without Repeating Characters
+
+✅ Palindrome Check
+🔗 Valid Palindrome
+🔗 Longest Palindromic Substring
+
+✅ Pattern Matching
+🔗 Find the Index of the First Occurrence in a String
+
+✅ Anagrams
+🔗 Valid Anagram
+🔗 Group Anagrams
+
+✅ Character Frequency
+🔗 First Unique Character in a String
+🔗 Top K Frequent Words
+
+🟨 Sorting Algorithms
+✅ Learn & Code From Scratch
+🔗 Sort an Array (Try writing merge sort/quick sort)
+
+✅ Applications of Sorting
+🔗 Merge Intervals
+🔗 Sort Colors (Dutch National Flag)
+🔗 Largest Number
+
+✅ Custom Sort
+🔗 Relative Sort Array
+🔗 Sort Characters By Frequency
+
+🟩 Searching
+✅ Linear Search
+🔗 Search Insert Position
+🔗 Find Numbers with Even Number of Digits
+
+✅ Binary Search Basics
+🔗 Binary Search
+🔗 Guess Number Higher or Lower
+
+✅ Advanced Binary Search
+🔗 Find First and Last Position
+🔗 Search a 2D Matrix
+🔗 Peak Index in a Mountain Array
+🔗 Find Minimum in Rotated Sorted Array
+
+🔥 Must-Know Techniques (You Requested)
+✅ Two Pointers
+✔ Already included
+
+✅ Sliding Window
+✔ Already included
+
+✅ Prefix Sum
+✔ Already included
+
+🆕 Honorable Mentions (Bonus Concepts that pop up in real interviews)
+Dutch National Flag Algo
+🔗 Sort Colors
+
+Difference Arrays (For range updates — useful in advanced problems)
+🔗 Corporate Flight Bookings
