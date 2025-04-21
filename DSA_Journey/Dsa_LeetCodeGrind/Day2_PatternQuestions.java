@@ -44,5 +44,4 @@ public class Day2_PatternQuestions {
         }
         System.out.println();
     }
-
 }
