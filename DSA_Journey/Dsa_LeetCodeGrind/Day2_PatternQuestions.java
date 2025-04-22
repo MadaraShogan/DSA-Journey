@@ -33,7 +33,6 @@ public class Day2_PatternQuestions {
         }
         System.out.println();
     }
-
     public static void printRightAngleTrianglePattern(int rows) {
         System.out.println("Right-Angle Triangle Pattern:");
         for (int i = 1; i <= rows; i++) {
