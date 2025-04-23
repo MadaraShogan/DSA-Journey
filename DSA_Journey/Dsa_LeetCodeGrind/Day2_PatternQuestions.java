@@ -1,5 +1,5 @@
 public class Day2_PatternQuestions {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         int rows = 5;
         printPyramidPattern(rows);
         printReversePyramidPattern(rows);
