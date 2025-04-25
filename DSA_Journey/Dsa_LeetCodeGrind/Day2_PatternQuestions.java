@@ -19,6 +19,7 @@ public class Day2_PatternQuestions {
         }
         System.out.println();
     }
+    
     public static void printReversePyramidPattern(int rows) {
         System.out.println("Reverse Pyramid Pattern:");
         for (int i = rows; i >= 1; i--) {
