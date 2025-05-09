@@ -292,10 +292,7 @@ Strive for optimal solutions
 
 🧪 Mock Interviews
 Practice under time limits
-
 Try peer interviews or platforms like Pramp
-
 🔁 Review
 Revisit earlier phases periodically
-
 DSA builds on itself—don't forget past topics
