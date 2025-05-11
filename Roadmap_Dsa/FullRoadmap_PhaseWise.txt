@@ -3,47 +3,33 @@
 Arrays and strings are the simplest data structures
 
 Sorting is a core algorithmic skill used in many problems
-
 📘 Key Topics
 📦 Arrays: Basic operations (access, insertion, deletion), multi-dimensional arrays
-
 🧵 Strings: Manipulation, substring problems, pattern matching
 
 📊 Sorting Algorithms:
-
 Bubble Sort
-
 Insertion Sort
-
 Merge Sort
-
 Quicksort
-
 Heapsort
 
 🔎 Searching:
-
 Linear Search
-
 Binary Search (and variations)
 
 🧠 Essential Techniques
 ➡️ Two-pointer technique (e.g., reversing an array)
-
 📏 Sliding window (e.g., substring problems)
-
 ➕ Prefix sums (e.g., range sum queries)
 
 🧩 Example Problems
 ✅ Two Sum (arrays)
-
-🔠 Longest Substring Without Repeating Characters (strings)
-
+🔠 Longest Substring Without Repeating Characters (string)
 🔄 Merge Intervals (sorting)
 
 💡 Practice Tip
 Solve 20–30 problems on arrays and strings
-
 Code sorting algorithms from scratch
 
 🧱 Phase 2: Linear Data Structures – Linked Lists, Stacks, and Queues
