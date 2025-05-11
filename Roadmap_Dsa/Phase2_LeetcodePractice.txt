@@ -1,0 +1,100 @@
+✅ PHASE 2: Linear Data Structures – Linked Lists, Stacks, Queues
+🟦 Linked Lists
+Basic Operations
+
+Reverse Linked List → https://leetcode.com/problems/reverse-linked-list/
+
+Remove Nth Node From End of List → https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+Merge Two Sorted Lists → https://leetcode.com/problems/merge-two-sorted-lists/
+
+Delete Node in a Linked List → https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+Middle of the Linked List → https://leetcode.com/problems/middle-of-the-linked-list/
+
+Two-pointer Techniques
+
+Linked List Cycle → https://leetcode.com/problems/linked-list-cycle/
+
+Linked List Cycle II → https://leetcode.com/problems/linked-list-cycle-ii/
+
+Intersection of Two Linked Lists → https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+Advanced Manipulation
+
+Reverse Nodes in k-Group → https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+Palindrome Linked List → https://leetcode.com/problems/palindrome-linked-list/
+
+Add Two Numbers → https://leetcode.com/problems/add-two-numbers/
+
+🟨 Stacks
+Basic Stack Operations
+
+Valid Parentheses → https://leetcode.com/problems/valid-parentheses/
+
+Min Stack → https://leetcode.com/problems/min-stack/
+
+Evaluate Reverse Polish Notation → https://leetcode.com/problems/evaluate-reverse-polish-notation/
+
+Implement Stack Using Queues → https://leetcode.com/problems/implement-stack-using-queues/
+
+Monotonic Stack
+
+Next Greater Element I → https://leetcode.com/problems/next-greater-element-i/
+
+Next Greater Element II → https://leetcode.com/problems/next-greater-element-ii/
+
+Daily Temperatures → https://leetcode.com/problems/daily-temperatures/
+
+Asteroid Collision → https://leetcode.com/problems/asteroid-collision/
+
+🟩 Queues
+Queue Operations
+
+Implement Queue Using Stacks → https://leetcode.com/problems/implement-queue-using-stacks/
+
+Design Circular Queue → https://leetcode.com/problems/design-circular-queue/
+
+Number of Recent Calls → https://leetcode.com/problems/number-of-recent-calls/
+
+Moving Average from Data Stream → https://leetcode.com/problems/moving-average-from-data-stream/
+
+Priority Queue (Intro)
+
+Kth Largest Element in a Stream → https://leetcode.com/problems/kth-largest-element-in-a-stream/
+
+Top K Frequent Elements → https://leetcode.com/problems/top-k-frequent-elements/
+
+🟪 Deque & Sliding Window
+Sliding Window + Deque
+
+Sliding Window Maximum → https://leetcode.com/problems/sliding-window-maximum/
+
+Max Consecutive Ones III → https://leetcode.com/problems/max-consecutive-ones-iii/
+
+Longest Subarray of 1's After Deleting One Element → https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+
+🧠 Must-Know Techniques
+🐢🐇 Slow and Fast Pointers
+
+Linked List Cycle → https://leetcode.com/problems/linked-list-cycle/
+
+Middle of the Linked List → https://leetcode.com/problems/middle-of-the-linked-list/
+
+Palindrome Linked List → https://leetcode.com/problems/palindrome-linked-list/
+
+📈 Monotonic Stack
+
+Daily Temperatures → https://leetcode.com/problems/daily-temperatures/
+
+Next Greater Element II → https://leetcode.com/problems/next-greater-element-ii/
+
+Sum of Subarray Minimums → https://leetcode.com/problems/sum-of-subarray-minimums/
+
+🎢 Deque for Sliding Window
+
+Sliding Window Maximum → https://leetcode.com/problems/sliding-window-maximum/
+
+Shortest Subarray with Sum at Least K → https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
+

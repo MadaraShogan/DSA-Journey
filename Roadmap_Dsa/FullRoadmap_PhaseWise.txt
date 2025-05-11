@@ -37,7 +37,6 @@ Code sorting algorithms from scratch
 These structures extend arrays with dynamic memory and specific behaviors:
 
 LIFO for stacks
-
 FIFO for queues
 
 📘 Key Topics

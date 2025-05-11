@@ -1,0 +1,32 @@
+🧱 Phase 2: Linear Data Structures – Linked Lists, Stacks, and Queues
+🔍 Why This Next
+These structures extend arrays with dynamic memory and specific behaviors:
+
+LIFO for stacks
+FIFO for queues
+
+📘 Key Topics
+🔗 Linked Lists: Singly, doubly, circular; operations like reversal, cycle detection
+
+🧮 Stacks: Implementation, applications (e.g., expression evaluation)
+
+🧺 Queues: Implementation, priority queues (basic intro)
+
+🧠 Essential Techniques
+🐢🐇 Slow and fast pointers (e.g., cycle detection)
+
+📈 Monotonic stacks (e.g., next greater element)
+
+🎢 Deque for sliding window maximum
+
+🧩 Example Problems
+🔄 Reverse a Linked List
+
+✅ Valid Parentheses (stacks)
+
+🔁 Implement Queue Using Stacks
+
+💡 Practice Tip
+Understand how these differ from arrays
+
+Focus on their real-world applications
