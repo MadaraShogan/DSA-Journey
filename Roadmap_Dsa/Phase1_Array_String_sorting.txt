@@ -2,15 +2,10 @@
 🅰️ Arrays
 🔧 Basic Operations
 🔹 Accessing elements
-
 🔹 Insertion & Deletion (at beginning, middle, end)
-
 🔹 Traversal techniques:
-
 🔸 for loop
-
 🔸 while loop
-
 🔸 Enhanced/for-each loop
 
 🧮 Multi-Dimensional Arrays
@@ -18,138 +13,95 @@
 
 🔄 Rotation and Rearrangement
 🔹 Array rotation (left/right by k steps)
-
 🔹 Merging two sorted arrays
-
 🔹 Rearranging elements:
 
 ➕/➖ Positive and Negative
-
 🔢 Even and Odd
-
 0️⃣ and 1️⃣ segregation
 
 📈 Searching and Analysis
 🔹 Finding max/min elements
-
 🔹 Finding duplicates in an array
-
 🔹 Searching in:
-
 🔸 Unsorted arrays
-
 🔸 Sorted arrays
 
 💡 Algorithmic Techniques
 🔹 Kadane’s Algorithm (Maximum subarray sum)
-
 🔹 Prefix Sum Array (for range sum queries)
-
 🔹 Two-pointer Technique (e.g., reversing, triplets)
-
 🔹 Sliding Window Technique (fixed/variable size problems)
 
 🔍 Binary Search
 (Often considered a sub-topic of arrays but listed separately for clarity)
-
 🧠 Classic + Variations
 🔹 Classic Binary Search
-
 🔹 First and Last Occurrence
-
 🔹 Search in Rotated Sorted Array
-
 🔹 Lower Bound / Upper Bound concepts
-
 🔹 Binary Search on Answers (Advanced)
 
 📚 Problems Requiring Sorting + Searching
 🔹 Triplet Sum / 3Sum Problem
-
 🔹 Merge Intervals
 
 🅱️ Strings
 ✂️ Basic String Handling
 🔹 Accessing characters
-
 🔹 Getting string length
-
 🔹 String concatenation and splitting
 
 🧠 Analysis and Frequency
 🔹 Character frequency count (using array/hashmap)
-
 🔹 String immutability (and how to work around it)
-
 🔹 String compression problems
 
 🔄 Transformations
 🔹 Reversing a string (with and without temp vars)
-
 🔹 String to Integer conversion (atoi() logic)
-
 🔹 String rotation and checking for rotated versions
 
 🔍 Pattern Matching & Special Problems
 🔹 Substrings and subsequences
-
 🔹 Palindrome checks (2-pointer)
-
 🔹 Anagram detection
-
 🔹 Longest Common Prefix
-
 🔹 Longest Substring Without Repeating Characters (Sliding Window)
-
 🔹 Pattern matching:
-
 🔸 Naive Approach
-
 🔸 KMP Algorithm (Optional but powerful)
 
 🔢 Sorting Algorithms
 🧪 Basic Sorting
 🔹 Bubble Sort 💬 (understand and implement manually)
-
 🔹 Insertion Sort
-
 🔹 Selection Sort (optional)
 
 ⚙️ Efficient Sorting
 🔹 Merge Sort ✅ (must-learn)
-
 🔹 Quick Sort ✅ (must-learn)
-
 🔹 Heap Sort (usually covered again in Heap phase)
 
 📊 Advanced/Extra Sorting
 🔹 Counting Sort (optional initially)
-
 🔹 Radix Sort (optional initially)
 
 🧩 Conceptual Sorting Topics
 🔹 Sorting custom objects (comparators in Java/Python)
-
 🔹 Stable vs Unstable Sorting
 
 🔎 Searching Algorithms
 📌 Essentials
 🔹 Linear Search
-
 🔹 Binary Search (already covered under Arrays section)
 
 ✅ Must Topics Recap (Grouped for Quick Reference)
-
 🛠️ Key Techniques
 ✅ Two-pointer technique → (Arrays #12)
-
 ✅ Sliding Window technique → (Arrays #13 & Strings #13)
-
 ✅ Prefix Sums → (Arrays #11)
-
 🧩 Must-Solve Problems
 ✅ Two Sum → (Array + Hashmap)
-
 ✅ Longest Substring Without Repeating Characters → (String + Sliding Window)
-
 ✅ Merge Intervals → (Sorting + Arrays)
