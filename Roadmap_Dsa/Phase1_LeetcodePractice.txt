@@ -33,7 +33,6 @@ Sliding Window Maximum → https://leetcode.com/problems/sliding-window-maximum/
 🟪 Strings
 Basic String Manipulation
 Reverse String → https://leetcode.com/problems/reverse-string/
-Implement strStr() → https://leetcode.com/problems/implement-strstr/
 
 Substring Handling
 Longest Substring Without Repeating Characters → https://leetcode.com/problems/longest-substring-without-repeating-characters/
