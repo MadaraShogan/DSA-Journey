@@ -5,7 +5,6 @@ public class Day2_PatternQuestions {
         printReversePyramidPattern(rows);
         printRightAngleTrianglePattern(rows);
     }
-
     public static void printPyramidPattern(int rows) {
         System.out.println("Pyramid Pattern:");
         for (int i = 1; i <= rows; i++) {
