@@ -1,0 +1,22 @@
+🗃️ Phase 3: Hashing and Hashmaps
+🔍 Why This Next
+Hashmaps provide fast lookups (O(1) average time)
+Extremely useful for optimization
+
+📘 Key Topics
+🧠 Hashmaps: Operations, handling collisions
+🚫 Sets: Uniqueness checks
+🧮 Applications: Counting frequencies, subarray problems, grouping
+
+🧠 Essential Techniques
+🧩 Two-sum variations
+➕ Longest subarray with sum K
+🔤 Grouping anagrams
+
+🧩 Example Problems
+✅ Two Sum
+🔢 Longest Consecutive Sequence
+➗ Subarray Sum Equals K
+
+💡 Practice Tip
+Use hashmaps to optimize brute-force solutions

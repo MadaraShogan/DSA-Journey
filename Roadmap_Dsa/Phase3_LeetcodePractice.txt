@@ -1,0 +1,35 @@
+🧩 Two-sum Variations
+✅ Two Sum
+https://leetcode.com/problems/two-sum/
+Classic use of hashmap to find two numbers that add up to a target.
+
+🔁 Two Sum II - Input Array Is Sorted
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+Uses two-pointer technique instead of hashmap. Important variation.
+
+➕ Longest Subarray with Sum K
+➗ Subarray Sum Equals K
+https://leetcode.com/problems/subarray-sum-equals-k/
+Uses prefix sum + hashmap for O(n) time solution.
+
+🔢 Longest Consecutive Sequence
+https://leetcode.com/problems/longest-consecutive-sequence/
+Uses hashset for efficient lookup of sequence continuation.
+
+🔤 Grouping Anagrams
+https://leetcode.com/problems/group-anagrams/
+Uses hashmap with sorted strings as keys to group anagrams.
+
+🧮 Bonus – Frequency Counting and Hashmap Practice
+🐍 Valid Anagram
+https://leetcode.com/problems/valid-anagram/
+Count frequency of characters using hashmap.
+
+🔁 Top K Frequent Elements
+https://leetcode.com/problems/top-k-frequent-elements/
+Frequency map + heap or bucket sort.
+
+🎯 Intersection of Two Arrays
+https://leetcode.com/problems/intersection-of-two-arrays/
+Use sets for uniqueness.
+
