@@ -1,0 +1,23 @@
+🔁 Phase 4: Recursion and Backtracking
+🔍 Why This Next
+Recursion is key for naturally recursive structures:
+Trees
+Combinations
+Backtracking helps explore decision trees
+
+📘 Key Topics
+🔁 Recursion Basics: Base cases, recursive calls
+🔍 Backtracking: Decision trees, pruning
+
+🧠 Essential Techniques
+🧩 Generating subsets and permutations
+♟️ Solving N-Queens or Sudoku
+
+🧩 Example Problems
+🧮 Fibonacci Sequence (basic recursion)
+🔗 Generate Parentheses (backtracking)
+🧭 Word Search (grid backtracking)
+
+💡 Practice Tip
+Visualize recursion trees
+Optimize using memoization when needed
