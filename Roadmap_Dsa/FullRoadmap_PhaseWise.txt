@@ -41,55 +41,41 @@ FIFO for queues
 
 📘 Key Topics
 🔗 Linked Lists: Singly, doubly, circular; operations like reversal, cycle detection
-
 🧮 Stacks: Implementation, applications (e.g., expression evaluation)
-
 🧺 Queues: Implementation, priority queues (basic intro)
 
 🧠 Essential Techniques
 🐢🐇 Slow and fast pointers (e.g., cycle detection)
-
 📈 Monotonic stacks (e.g., next greater element)
-
 🎢 Deque for sliding window maximum
 
 🧩 Example Problems
 🔄 Reverse a Linked List
-
 ✅ Valid Parentheses (stacks)
-
 🔁 Implement Queue Using Stacks
 
 💡 Practice Tip
 Understand how these differ from arrays
-
 Focus on their real-world applications
 
 🗃️ Phase 3: Hashing and Hashmaps
 🔍 Why This Next
 Hashmaps provide fast lookups (O(1) average time)
-
 Extremely useful for optimization
 
 📘 Key Topics
 🧠 Hashmaps: Operations, handling collisions
-
 🚫 Sets: Uniqueness checks
-
 🧮 Applications: Counting frequencies, subarray problems, grouping
 
 🧠 Essential Techniques
 🧩 Two-sum variations
-
 ➕ Longest subarray with sum K
-
 🔤 Grouping anagrams
 
 🧩 Example Problems
 ✅ Two Sum
-
 🔢 Longest Consecutive Sequence
-
 ➗ Subarray Sum Equals K
 
 💡 Practice Tip
@@ -98,33 +84,25 @@ Use hashmaps to optimize brute-force solutions
 🔁 Phase 4: Recursion and Backtracking
 🔍 Why This Next
 Recursion is key for naturally recursive structures:
-
 Trees
-
 Combinations
-
 Backtracking helps explore decision trees
 
 📘 Key Topics
 🔁 Recursion Basics: Base cases, recursive calls
-
 🔍 Backtracking: Decision trees, pruning
 
 🧠 Essential Techniques
 🧩 Generating subsets and permutations
-
 ♟️ Solving N-Queens or Sudoku
 
 🧩 Example Problems
 🧮 Fibonacci Sequence (basic recursion)
-
 🔗 Generate Parentheses (backtracking)
-
 🧭 Word Search (grid backtracking)
 
 💡 Practice Tip
 Visualize recursion trees
-
 Optimize using memoization when needed
 
 🌲 Phase 5: Trees and Binary Search Trees (BSTs)
