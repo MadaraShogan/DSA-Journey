@@ -108,33 +108,25 @@ Optimize using memoization when needed
 🌲 Phase 5: Trees and Binary Search Trees (BSTs)
 🔍 Why This Next
 Trees model hierarchical data
-
 BSTs introduce ordered structures
 
 📘 Key Topics
 🌳 Binary Trees: Traversals (preorder, inorder, postorder, level order)
-
 🏹 BSTs: Insertion, deletion, searching
-
 📐 Tree Properties: Height, balance, diameter
 
 🧠 Essential Techniques
 🔁 Recursive and iterative traversals
-
 🧭 Lowest Common Ancestor (LCA)
-
 ✅ Validate BST
 
 🧩 Example Problems
 🔄 Invert Binary Tree
-
 📏 Diameter of Binary Tree
-
 ☑️ Validate BST
 
 💡 Practice Tip
 Draw trees by hand
-
 Practice manual traversals
 
 ⛏️ Phase 6: Heaps and Priority Queues
