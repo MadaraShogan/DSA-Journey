@@ -1,7 +1,7 @@
 🚀 Phase 1: Foundations – Arrays, Strings, and Sorting
 🔍 Why Start Here
 Arrays and strings are the simplest data structures
-
+checking
 Sorting is a core algorithmic skill used in many problems
 📘 Key Topics
 📦 Arrays: Basic operations (access, insertion, deletion), multi-dimensional arrays
